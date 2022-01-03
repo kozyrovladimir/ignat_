@@ -1,0 +1,7 @@
+.editableSpan__box {
+    margin: 15px 0;
+}
+
+.editableSpan__box span::before {
+    content: url('pencil.svg');
+}
