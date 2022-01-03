@@ -1,0 +1,21 @@
+.alternativeAffairItem {
+    padding: 5px;
+}
+
+.deleteButton {
+    margin-left: 5px;
+    border-color: red;
+    color: red;
+}
+
+.priorityLow{
+    color: green;
+}
+
+.priorityMiddle{
+    color: gold;
+}
+
+.priorityHigh{
+    color: red;
+}

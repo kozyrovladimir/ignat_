@@ -1,0 +1,33 @@
+.iconMenu {
+    padding: 5px;
+    width: 50px;
+    background-color: gold;
+}
+
+.memu {
+    width: 350px;
+    background-color: green;
+    display: flex;
+    justify-content: space-around;
+}
+
+.wrapperMenu {
+    text-align: center;
+    height: 30px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -340px;
+    transition-duration: 0.75s;
+}
+
+.wrapperMenu a {
+    text-decoration: none;
+    padding: 0 10px;
+    line-height: 30px;
+}
+
+.wrapperMenu:hover {
+    margin-left: 0;
+    transition-duration: 0.75s;
+}

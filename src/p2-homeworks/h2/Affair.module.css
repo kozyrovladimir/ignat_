@@ -1,0 +1,9 @@
+.affairItem {
+    padding: 5px;
+}
+
+.deleteButton {
+    margin-left: 5px;
+    border-color: red;
+    color: red;
+}

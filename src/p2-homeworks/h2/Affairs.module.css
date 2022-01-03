@@ -1,0 +1,19 @@
+.filterButton {
+    margin: 5px;
+}
+
+.filterButtonAll {
+   border-color: blue;
+}
+
+.filterButtonHigh {
+    border-color: red;
+}
+
+.filterButtonMiddle {
+    border-color: gold;
+}
+
+.filterButtonLow {
+    border-color: green;
+}
